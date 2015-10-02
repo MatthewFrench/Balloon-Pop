@@ -1,0 +1,1601 @@
+TUltimate iPhone Template
+v7
+r0
+t308337504.755681
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Info.plist" Ultimate_iPhone_Template-Info.plist
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/Balloon Pop/MainWindow.xib"
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Icon.png" Icon.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Shootingman.png" Shootingman.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/BouncyBullets.png" BouncyBullets.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/MachineGun.png" MachineGun.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/MatrixMode.png" MatrixMode.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/MultiDirShot.png" MultiDirShot.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Nuke.png" Nuke.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/PenetrationBullets.png" PenetrationBullets.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Bullet.png" Bullet.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/RedBalloon.png" RedBalloon.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/BlueBalloon.png" BlueBalloon.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/radioactive.png" radioactive.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/distracted.mp3" distracted.mp3
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/beginner.mp3" beginner.mp3
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/seizurific.mp3" seizurific.mp3
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Background.png" Background.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Button.png" Button.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Faded Star.png" "Faded Star.png"
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Gold Star.png" "Gold Star.png"
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/indicator.png" indicator.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/bottomRow.png" bottomRow.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/topAndBottomRow.png" topAndBottomRow.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageC.png" imageC.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/topAndBottomRowSelected.png" topAndBottomRowSelected.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageA.png" imageA.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/gradientBackground.png" gradientBackground.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageB.png" imageB.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/topRowSelected.png" topRowSelected.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/topRow.png" topRow.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/middleRow.png" middleRow.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/middleRowSelected.png" middleRowSelected.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/bottomRowSelected.png" bottomRowSelected.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageD.png" imageD.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Bigger Shiney Black Button iPhone.png" "Bigger Shiney Black Button iPhone.png"
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/PurpleBalloon.png" PurpleBalloon.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/GreenBalloon.png" GreenBalloon.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Game Screen.png" "Game Screen.png"
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Joystick.png" Joystick.png
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/BP Button.png" "BP Button.png"
+cCpResource "build/Release-iphonesimulator/Balloon Pop.app/Default.png" Default.png
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch.gch Ultimate_iPhone_Template_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Menu.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Texture2D.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Image.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/NSCharacterSet_Extensions.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner_Extensions.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONScanner.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONDeserializer.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerPost.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerRequest.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/cocoslive.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/EasyCustomTableController.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameVariables.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Sprite.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/HighscoresTableController.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop" normal i386
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop"
+cTouch "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004BD2005600000000000102F0
+t1272053846
+s66288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004BD2005500000000000000EB
+t1272053845
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BD2001C0000000000193D80
+t1272053788
+s1654144
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004BD1FFCD000000000000E37C
+t1272053709
+s58236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004BD1CF66000000000000094F
+t1272041318
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004BD1CF660000000000000A61
+t1272041318
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004BD1CF660000000000009369
+t1272041318
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004BD1CF660000000000002A42
+t1272041318
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004BD1CF720000000000021BE0
+t1272041330
+s138208
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BD1D06900000000001294B0
+t1272041577
+s1217712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004748A1090000000000002500
+t1195942153
+s9472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/BP Button.png
+c000000004C4DBA0F0000000000000E72
+t1280162319
+s3698
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Background.png
+c000000004C4B379D0000000000000FD5
+t1279997853
+s4053
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Bigger Shiney Black Button iPhone.png
+c000000004C45238C000000000000226E
+t1279599500
+s8814
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/BlueBalloon.png
+c000000004C2683E00000000000000622
+t1277592544
+s1570
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/BouncyBullets.png
+c000000004C20EAAB0000000000000B6C
+t1277225643
+s2924
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Bullet.png
+c000000004BF08E92000000000000005B
+t1274056338
+s91
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Button.png
+c000000004C4B37830000000000000EFD
+t1279997827
+s3837
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.h
+c000000004CB07BA90000000000000D5A
+t1286634409
+s3418
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"Menu.h"
+i"GameView.h"
+i"Texture2D.h"
+i"Image.h"
+i"Sprite.h"
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"GameVariables.h"
+i"HighscoresTableController.h"
+i"EasyCustomTableController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.m
+c000000004CB082FB0000000000006DB4
+t1286636283
+s28084
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.h
+c000000004C4B81FD00000000000002A8
+t1280016893
+s680
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.m
+c000000004CB07835000000000000208B
+t1286633525
+s8331
+i"EasyCustomTableController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.h
+c000000004C9F428F000000000000040E
+t1285505679
+s1038
+i<Foundation/Foundation.h>
+i"Image.h"
+i"Texture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.m
+c000000004C9F425D000000000000519B
+t1285505629
+s20891
+i"GameVariables.h"
+i"AppDelegate.h"
+i"GameView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.h
+c000000004C65E63F00000000000004CA
+t1281746495
+s1226
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+i"Image.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.m
+c000000004C65E79500000000000037E2
+t1281746837
+s14306
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GameView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.h
+c000000004CB06773000000000000031A
+t1286629235
+s794
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.m
+c000000004CB0684A0000000000003492
+t1286629450
+s13458
+i"HighscoresTableController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.h
+c000000004C3E7C2A0000000000001468
+t1279163434
+s5224
+i<Foundation/Foundation.h>
+i"Texture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.m
+c000000004C4E2957000000000000350E
+t1280190807
+s13582
+i"Image.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.h
+c000000004C47D43100000000000000B3
+t1279775793
+s179
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.m
+c000000004C47D4210000000000000635
+t1279775777
+s1589
+i"Menu.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.h
+c000000004C65E4840000000000000214
+t1281746052
+s532
+i<Foundation/Foundation.h>
+i"Image.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.m
+c000000004C65E4840000000000000320
+t1281746052
+s800
+i"Sprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.h
+c0000000049BCF83900000000000012D5
+t1237121081
+s4821
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.m
+c000000004C4A0A410000000000002A51
+t1279920705
+s10833
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.h
+c000000004BD857650000000000000946
+t1272469349
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.m
+c000000004BD85765000000000000165F
+t1272469349
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.h
+c000000004BD857650000000000000598
+t1272469349
+s1432
+i"CDataScanner.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.m
+c000000004BD8576500000000000009D4
+t1272469349
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.h
+c000000004BD857650000000000000766
+t1272469349
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.m
+c000000004BD8576500000000000009C2
+t1272469349
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.h
+c000000004BD857650000000000000700
+t1272469349
+s1792
+i"CDataScanner.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.m
+c000000004BD8576500000000000038D4
+t1272469349
+s14548
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.h
+c000000004BD857650000000000000DA3
+t1272469349
+s3491
+i<UIKit/UIKit.h>
+i<CommonCrypto/CommonDigest.h>
+i"cocoslive.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.m
+c000000004BD8576500000000000024AF
+t1272469349
+s9391
+i"CLScoreServerPost.h"
+i"ccMacros.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.h
+c000000004BD857650000000000000DAE
+t1272469349
+s3502
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.m
+c000000004BFB09E00000000000001A48
+t1274743264
+s6728
+i"CJSONDeserializer.h"
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+i"ccMacros.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.h
+c000000004BD857650000000000000565
+t1272469349
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.m
+c000000004BD85765000000000000071C
+t1272469349
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/ccMacros.h
+c000000004BD857650000000000000A61
+t1272469349
+s2657
+i<math.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.h
+c000000004BD85765000000000000028F
+t1272469349
+s655
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.m
+c000000004BD8576500000000000001EB
+t1272469349
+s491
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Default.png
+c000000004CB07D0F00000000000089E2
+t1286634767
+s35298
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Faded Star.png
+c000000004C4B52AB0000000000000E60
+t1280004779
+s3680
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Game Screen.png
+c000000004BFD21950000000000001AF8
+t1274880405
+s6904
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Gold Star.png
+c000000004C4B524D0000000000000C8D
+t1280004685
+s3213
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/GreenBalloon.png
+c000000004C2675EB00000000000006E4
+t1277588971
+s1764
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Icon.png
+c000000004C9FB4B000000000000012A6
+t1285534896
+s4774
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Joystick.png
+c000000004BF1B53C0000000000001116
+t1274131772
+s4374
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/MachineGun.png
+c000000004C20F0EE0000000000000B3F
+t1277227246
+s2879
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/MainWindow.xib
+c000000004CB07F540000000000020170
+t1286635348
+s131440
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/MatrixMode.png
+c000000004C20E86B0000000000000B0C
+t1277225067
+s2828
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/MultiDirShot.png
+c000000004C20EDCC0000000000000B21
+t1277226444
+s2849
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Nuke.png
+c000000004C20F0320000000000000C6B
+t1277227058
+s3179
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/PenetrationBullets.png
+c000000004C26426A0000000000000B83
+t1277575786
+s2947
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/PurpleBalloon.png
+c000000004C26834B0000000000000640
+t1277592395
+s1600
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/RedBalloon.png
+c000000004C549AAD0000000000000473
+t1280613037
+s1139
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Shootingman.png
+c000000004C5251C600000000000008E5
+t1280463302
+s2277
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/Ultimate_iPhone_Template_Prefix.pch
+c000000004C474ECC00000000000000D9
+t1279741644
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/beginner.mp3
+c000000004C144F9600000000000B0100
+t1276399510
+s721152
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/bottomRow.png
+c000000004C4BE1C20000000000000EFE
+t1280041410
+s3838
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/bottomRowSelected.png
+c000000004C4BE4CD0000000000001E18
+t1280042189
+s7704
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/AppDelegate.o
+t1286644702
+s129360
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Balloon Pop.LinkFileList
+c000000004CB0A3D70000000000000BB7
+t1286644695
+s2999
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner.o
+t1286644702
+s24208
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner_Extensions.o
+t1286644702
+s9840
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONDeserializer.o
+t1286644702
+s12412
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONScanner.o
+t1286644702
+s28516
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerPost.o
+t1286644703
+s34432
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerRequest.o
+t1286644702
+s23876
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/EasyCustomTableController.o
+t1286644703
+s61208
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameVariables.o
+t1286644704
+s87884
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameView.o
+t1286644701
+s69196
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/HighscoresTableController.o
+t1286644704
+s78992
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Image.o
+t1286644702
+s40260
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Menu.o
+t1286644700
+s35748
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/NSCharacterSet_Extensions.o
+t1286644702
+s6868
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Sprite.o
+t1286644703
+s17240
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Texture2D.o
+t1286644701
+s26888
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/cocoslive.o
+t1286644702
+s5200
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/main.o
+t1286644700
+s6312
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app
+t1286644704
+s1564
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app.dSYM
+t1286644704
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/BP Button.png
+t1286644696
+s3698
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Background.png
+t1286644696
+s4053
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop
+t1286644704
+s202764
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Bigger Shiney Black Button iPhone.png
+t1286644696
+s8814
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/BlueBalloon.png
+t1286644696
+s1570
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/BouncyBullets.png
+t1286644696
+s2924
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Bullet.png
+t1286644696
+s91
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Button.png
+t1286644696
+s3837
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Default.png
+t1286644696
+s35298
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Faded Star.png
+t1286644696
+s3680
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Game Screen.png
+t1286644696
+s6904
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Gold Star.png
+t1286644696
+s3213
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/GreenBalloon.png
+t1286644696
+s1764
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Icon.png
+t1286644696
+s4774
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Info.plist
+t1286644696
+s613
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Joystick.png
+t1286644696
+s4374
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/MachineGun.png
+t1286644696
+s2879
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/MainWindow.nib
+t1286644697
+s22110
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/MatrixMode.png
+t1286644696
+s2828
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/MultiDirShot.png
+t1286644696
+s2849
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Nuke.png
+t1286644696
+s3179
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/PenetrationBullets.png
+t1286644696
+s2947
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/PkgInfo
+t1286644696
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/PurpleBalloon.png
+t1286644696
+s1600
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/RedBalloon.png
+t1286644696
+s1139
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Shootingman.png
+t1286644696
+s2277
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/beginner.mp3
+t1286644696
+s721152
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/bottomRow.png
+t1286644696
+s3838
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/bottomRowSelected.png
+t1286644696
+s7704
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/distracted.mp3
+t1286644696
+s721152
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/gradientBackground.png
+t1286644696
+s9799
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/imageA.png
+t1286644696
+s4822
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/imageB.png
+t1286644696
+s5603
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/imageC.png
+t1286644696
+s5330
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/imageD.png
+t1286644696
+s4240
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/indicator.png
+t1286644696
+s3278
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/middleRow.png
+t1286644696
+s3429
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/middleRowSelected.png
+t1286644696
+s9620
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/radioactive.png
+t1286644696
+s17148
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/seizurific.mp3
+t1286644696
+s721152
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/topAndBottomRow.png
+t1286644696
+s4203
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/topAndBottomRowSelected.png
+t1286644696
+s8676
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/topRow.png
+t1286644696
+s3849
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/topRowSelected.png
+t1286644696
+s10724
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/distracted.mp3
+c000000004C144F9A00000000000B0100
+t1276399514
+s721152
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/gradientBackground.png
+c0000000049F58B2B0000000000002647
+t1240828715
+s9799
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageA.png
+c000000004C4C903600000000000012D6
+t1280086070
+s4822
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageB.png
+c000000004C4C902F00000000000015E3
+t1280086063
+s5603
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageC.png
+c000000004C4C903E00000000000014D2
+t1280086078
+s5330
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageD.png
+c000000004C4C903C0000000000001090
+t1280086076
+s4240
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/indicator.png
+c000000004C4C83C80000000000000CCE
+t1280082888
+s3278
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/main.m
+c000000004C474ECC000000000000017C
+t1279741644
+s380
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/middleRow.png
+c000000004C4BE4FA0000000000000D65
+t1280042234
+s3429
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/middleRowSelected.png
+c000000004C4BE7120000000000002594
+t1280042770
+s9620
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/radioactive.png
+c000000004C06E79C00000000000042FC
+t1275520924
+s17148
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/seizurific.mp3
+c000000004C144F8D00000000000B0100
+t1276399501
+s721152
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/topAndBottomRow.png
+c000000004C4BE1E6000000000000106B
+t1280041446
+s4203
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/topAndBottomRowSelected.png
+c000000004C4BE6FC00000000000021E4
+t1280042748
+s8676
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/topRow.png
+c000000004C4BE51A0000000000000F09
+t1280042266
+s3849
+
+N/Users/matthew/Desktop/My Code Sources/Balloon Pop/topRowSelected.png
+c000000004C4C841700000000000029E4
+t1280082967
+s10724
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch.gch
+t1286644700
+s13531024
+
+NUltimate_iPhone_Template-Info.plist
+c000000004C9FC3480000000000000396
+t1285538632
+s918
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308337495#308337495#0(0"0(0#1#0"8583984513156149248#0"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337500.685346
+e308337502.137964
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@80"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.m308337500#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#72"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.m8605931872#2387"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.321966
+e308337502.595054
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@91"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.m308337502#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#83"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.m8607647072#2399"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner_Extensions.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.215520
+e308337502.327464
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner_Extensions.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@102"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.m308337502#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#94"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.m8598880960#2421"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CDataScanner_Extensions.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CDataScanner_Extensions.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONDeserializer.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.595190
+e308337502.696808
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONDeserializer.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@96"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.m308337502#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#88"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.m8606837888#2409"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONDeserializer.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONDeserializer.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONScanner.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.327603
+e308337502.684830
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONScanner.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@91"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.m308337502#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#83"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.m8604524576#2399"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CJSONScanner.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CJSONScanner.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerPost.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.684969
+e308337503.040349
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerPost.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@96"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.m308337502#308337503#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#88"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.m8607583744#2409"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerPost.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerPost.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerRequest.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.696954
+e308337502.921941
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerRequest.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@99"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.m308337502#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#91"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.m8603741760#2415"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/CLScoreServerRequest.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/CLScoreServerRequest.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/EasyCustomTableController.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.989562
+e308337503.442648
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/EasyCustomTableController.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@94"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.m308337502#308337503#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#86"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.m8606698016#2415"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/EasyCustomTableController.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/EasyCustomTableController.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameVariables.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337503.040487
+e308337504.224334
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameVariables.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@82"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.m308337503#308337504#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#74"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.m8606225568#2391"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameVariables.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameVariables.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337500.990656
+e308337501.442332
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameView.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@77"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.m308337500#308337501#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#69"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.m8607502336#2381"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/GameView.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/GameView.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/HighscoresTableController.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337503.588834
+e308337504.059888
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/HighscoresTableController.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@94"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.m308337503#308337504#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#86"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.m8606425568#2415"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/HighscoresTableController.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/HighscoresTableController.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Image.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337501.721260
+e308337502.321820
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Image.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@74"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.m308337501#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#66"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.m8608515008#2375"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Image.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Image.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Menu.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337500.872366
+e308337500.990521
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Menu.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@73"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.m308337500#308337500#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.m8602818784#2373"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Menu.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Menu.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/NSCharacterSet_Extensions.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.138106
+e308337502.215289
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/NSCharacterSet_Extensions.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@104"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.m308337502#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#96"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.m8604149152#2425"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/NSCharacterSet_Extensions.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/NSCharacterSet_Extensions.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Sprite.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337503.442789
+e308337503.588688
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Sprite.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@75"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.m308337503#308337503#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#67"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.m8607386848#2377"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Sprite.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Sprite.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Texture2D.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337501.442467
+e308337501.721132
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Texture2D.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@78"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.m308337501#308337501#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#70"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.m8607570944#2383"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/Texture2D.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Texture2D.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/cocoslive.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337502.922352
+e308337502.989415
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/cocoslive.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@88"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.m308337502#308337502#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#80"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.m8602442784#2393"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Classes/cocoslive/cocoslive.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/cocoslive.o"0#
+
+CCompileC "build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337500.683938
+e308337500.872227
+r1
+xCompileC
+xbuild/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@65"Compile /Users/matthew/Desktop/My Code Sources/Balloon Pop/main.m308337500#308337500#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#57"/Users/matthew/Desktop/My Code Sources/Balloon Pop/main.m8606624096#2365"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/main.m" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Balloon Pop/MainWindow.xib"
+s308337496.010827
+e308337497.538137
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib308337496#308337497#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/MainWindow.xib8610084704#618"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/MainWindow.nib" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/BP Button.png" "BP Button.png"
+s308337496.183469
+e308337496.196399
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/BP Button.png
+xBP Button.png
+lSLF07#2@18"Copy BP Button.png308337496#308337496#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Balloon Pop/BP Button.png8607304992#526"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/BP Button.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Background.png" Background.png
+s308337496.054754
+e308337496.090552
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Background.png
+xBackground.png
+lSLF07#2@19"Copy Background.png308337496#308337496#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Background.png8602988960#527"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Background.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Bigger Shiney Black Button iPhone.png" "Bigger Shiney Black Button iPhone.png"
+s308337496.164100
+e308337496.193259
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Bigger Shiney Black Button iPhone.png
+xBigger Shiney Black Button iPhone.png
+lSLF07#2@42"Copy Bigger Shiney Black Button iPhone.png308337496#308337496#0(0"0(0#0#88"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Bigger Shiney Black Button iPhone.png8606422880#550"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Bigger Shiney Black Button iPhone.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/BlueBalloon.png" BlueBalloon.png
+s308337496.037891
+e308337496.059616
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/BlueBalloon.png
+xBlueBalloon.png
+lSLF07#2@20"Copy BlueBalloon.png308337496#308337496#0(0"0(0#0#66"/Users/matthew/Desktop/My Code Sources/Balloon Pop/BlueBalloon.png8607428128#528"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/BlueBalloon.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/BouncyBullets.png" BouncyBullets.png
+s308337496.015107
+e308337496.035509
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/BouncyBullets.png
+xBouncyBullets.png
+lSLF07#2@22"Copy BouncyBullets.png308337496#308337496#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/Balloon Pop/BouncyBullets.png8608360128#530"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/BouncyBullets.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Bullet.png" Bullet.png
+s308337496.032311
+e308337496.054639
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Bullet.png
+xBullet.png
+lSLF07#2@15"Copy Bullet.png308337496#308337496#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Bullet.png8607609824#523"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Bullet.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Button.png" Button.png
+s308337496.059755
+e308337496.105374
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Button.png
+xButton.png
+lSLF07#2@15"Copy Button.png308337496#308337496#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Button.png8603153920#523"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Button.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Default.png" Default.png
+s308337496.187578
+e308337496.201977
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png308337496#308337496#0(0"0(0#0#62"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Default.png8606136320#524"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Default.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Faded Star.png" "Faded Star.png"
+s308337496.090679
+e308337496.120044
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Faded Star.png
+xFaded Star.png
+lSLF07#2@19"Copy Faded Star.png308337496#308337496#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Faded Star.png8602877280#527"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Faded Star.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Game Screen.png" "Game Screen.png"
+s308337496.173663
+e308337496.196663
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Game Screen.png
+xGame Screen.png
+lSLF07#2@20"Copy Game Screen.png308337496#308337496#0(0"0(0#0#66"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Game Screen.png8603006688#528"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Game Screen.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Gold Star.png" "Gold Star.png"
+s308337496.094785
+e308337496.117557
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Gold Star.png
+xGold Star.png
+lSLF07#2@18"Copy Gold Star.png308337496#308337496#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Gold Star.png8611232832#526"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Gold Star.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/GreenBalloon.png" GreenBalloon.png
+s308337496.170725
+e308337496.183335
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/GreenBalloon.png
+xGreenBalloon.png
+lSLF07#2@21"Copy GreenBalloon.png308337496#308337496#0(0"0(0#0#67"/Users/matthew/Desktop/My Code Sources/Balloon Pop/GreenBalloon.png8604126208#529"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/GreenBalloon.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Icon.png" Icon.png
+s308337496.012019
+e308337496.035171
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png308337496#308337496#0(0"0(0#0#59"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Icon.png8608734944#521"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Icon.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Joystick.png" Joystick.png
+s308337496.177253
+e308337496.199555
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Joystick.png
+xJoystick.png
+lSLF07#2@17"Copy Joystick.png308337496#308337496#0(0"0(0#0#63"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Joystick.png8603336256#525"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Joystick.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/MachineGun.png" MachineGun.png
+s308337496.017278
+e308337496.043345
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/MachineGun.png
+xMachineGun.png
+lSLF07#2@19"Copy MachineGun.png308337496#308337496#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/MachineGun.png8608200608#527"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/MachineGun.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/MatrixMode.png" MatrixMode.png
+s308337496.019370
+e308337496.049791
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/MatrixMode.png
+xMatrixMode.png
+lSLF07#2@19"Copy MatrixMode.png308337496#308337496#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/MatrixMode.png8608028384#527"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/MatrixMode.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/MultiDirShot.png" MultiDirShot.png
+s308337496.023510
+e308337496.097422
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/MultiDirShot.png
+xMultiDirShot.png
+lSLF07#2@21"Copy MultiDirShot.png308337496#308337496#0(0"0(0#0#67"/Users/matthew/Desktop/My Code Sources/Balloon Pop/MultiDirShot.png8607926496#529"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/MultiDirShot.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Nuke.png" Nuke.png
+s308337496.026575
+e308337496.097600
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Nuke.png
+xNuke.png
+lSLF07#2@13"Copy Nuke.png308337496#308337496#0(0"0(0#0#59"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Nuke.png8607869184#521"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Nuke.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/PenetrationBullets.png" PenetrationBullets.png
+s308337496.029920
+e308337496.046780
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/PenetrationBullets.png
+xPenetrationBullets.png
+lSLF07#2@27"Copy PenetrationBullets.png308337496#308337496#0(0"0(0#0#73"/Users/matthew/Desktop/My Code Sources/Balloon Pop/PenetrationBullets.png8607700224#535"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/PenetrationBullets.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/PurpleBalloon.png" PurpleBalloon.png
+s308337496.168158
+e308337496.187461
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/PurpleBalloon.png
+xPurpleBalloon.png
+lSLF07#2@22"Copy PurpleBalloon.png308337496#308337496#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/Balloon Pop/PurpleBalloon.png8605842368#530"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/PurpleBalloon.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/RedBalloon.png" RedBalloon.png
+s308337496.035608
+e308337496.094655
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/RedBalloon.png
+xRedBalloon.png
+lSLF07#2@19"Copy RedBalloon.png308337496#308337496#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/RedBalloon.png8607473088#527"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/RedBalloon.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/Shootingman.png" Shootingman.png
+s308337496.013051
+e308337496.035353
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/Shootingman.png
+xShootingman.png
+lSLF07#2@20"Copy Shootingman.png308337496#308337496#0(0"0(0#0#66"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Shootingman.png8608551264#528"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Shootingman.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/beginner.mp3" beginner.mp3
+s308337496.046900
+e308337496.227338
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/beginner.mp3
+xbeginner.mp3
+lSLF07#2@17"Copy beginner.mp3308337496#308337496#0(0"0(0#0#63"/Users/matthew/Desktop/My Code Sources/Balloon Pop/beginner.mp38607239104#525"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/beginner.mp3" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/bottomRow.png" bottomRow.png
+s308337496.101579
+e308337496.123133
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/bottomRow.png
+xbottomRow.png
+lSLF07#2@18"Copy bottomRow.png308337496#308337496#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Balloon Pop/bottomRow.png8610127744#526"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/bottomRow.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/bottomRowSelected.png" bottomRowSelected.png
+s308337496.155573
+e308337496.167882
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/bottomRowSelected.png
+xbottomRowSelected.png
+lSLF07#2@26"Copy bottomRowSelected.png308337496#308337496#0(0"0(0#0#72"/Users/matthew/Desktop/My Code Sources/Balloon Pop/bottomRowSelected.png8606621856#534"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/bottomRowSelected.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/distracted.mp3" distracted.mp3
+s308337496.043465
+e308337496.243249
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/distracted.mp3
+xdistracted.mp3
+lSLF07#2@19"Copy distracted.mp3308337496#308337496#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/distracted.mp38607327968#527"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/distracted.mp3" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/gradientBackground.png" gradientBackground.png
+s308337496.120155
+e308337496.136597
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/gradientBackground.png
+xgradientBackground.png
+lSLF07#2@27"Copy gradientBackground.png308337496#308337496#0(0"0(0#0#73"/Users/matthew/Desktop/My Code Sources/Balloon Pop/gradientBackground.png8607832032#535"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/gradientBackground.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageA.png" imageA.png
+s308337496.117678
+e308337496.143493
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/imageA.png
+ximageA.png
+lSLF07#2@15"Copy imageA.png308337496#308337496#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageA.png8607943936#523"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageA.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageB.png" imageB.png
+s308337496.123252
+e308337496.158488
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/imageB.png
+ximageB.png
+lSLF07#2@15"Copy imageB.png308337496#308337496#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageB.png8607589600#523"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageB.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageC.png" imageC.png
+s308337496.108980
+e308337496.127925
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/imageC.png
+ximageC.png
+lSLF07#2@15"Copy imageC.png308337496#308337496#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageC.png8608492000#523"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageC.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/imageD.png" imageD.png
+s308337496.158604
+e308337496.177139
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/imageD.png
+ximageD.png
+lSLF07#2@15"Copy imageD.png308337496#308337496#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageD.png8606489984#523"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/imageD.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/indicator.png" indicator.png
+s308337496.097700
+e308337496.111659
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/indicator.png
+xindicator.png
+lSLF07#2@18"Copy indicator.png308337496#308337496#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Balloon Pop/indicator.png8610539136#526"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/indicator.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/middleRow.png" middleRow.png
+s308337496.143605
+e308337496.155415
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/middleRow.png
+xmiddleRow.png
+lSLF07#2@18"Copy middleRow.png308337496#308337496#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Balloon Pop/middleRow.png8606895360#526"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/middleRow.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/middleRowSelected.png" middleRowSelected.png
+s308337496.152086
+e308337496.168059
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/middleRowSelected.png
+xmiddleRowSelected.png
+lSLF07#2@26"Copy middleRowSelected.png308337496#308337496#0(0"0(0#0#72"/Users/matthew/Desktop/My Code Sources/Balloon Pop/middleRowSelected.png8606772544#534"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/middleRowSelected.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/radioactive.png" radioactive.png
+s308337496.040775
+e308337496.108864
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/radioactive.png
+xradioactive.png
+lSLF07#2@20"Copy radioactive.png308337496#308337496#0(0"0(0#0#66"/Users/matthew/Desktop/My Code Sources/Balloon Pop/radioactive.png8607371584#528"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/radioactive.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/seizurific.mp3" seizurific.mp3
+s308337496.049904
+e308337496.213427
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/seizurific.mp3
+xseizurific.mp3
+lSLF07#2@19"Copy seizurific.mp3308337496#308337496#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Balloon Pop/seizurific.mp38606399456#527"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/seizurific.mp3" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/topAndBottomRow.png" topAndBottomRow.png
+s308337496.105489
+e308337496.201055
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/topAndBottomRow.png
+xtopAndBottomRow.png
+lSLF07#2@24"Copy topAndBottomRow.png308337496#308337496#0(0"0(0#0#70"/Users/matthew/Desktop/My Code Sources/Balloon Pop/topAndBottomRow.png8610031456#532"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/topAndBottomRow.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/topAndBottomRowSelected.png" topAndBottomRowSelected.png
+s308337496.111777
+e308337496.151962
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/topAndBottomRowSelected.png
+xtopAndBottomRowSelected.png
+lSLF07#2@32"Copy topAndBottomRowSelected.png308337496#308337496#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Balloon Pop/topAndBottomRowSelected.png8608179232#540"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/topAndBottomRowSelected.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/topRow.png" topRow.png
+s308337496.136707
+e308337496.173544
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/topRow.png
+xtopRow.png
+lSLF07#2@15"Copy topRow.png308337496#308337496#0(0"0(0#0#61"/Users/matthew/Desktop/My Code Sources/Balloon Pop/topRow.png8607156288#523"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/topRow.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CCpResource "build/Release-iphonesimulator/Balloon Pop.app/topRowSelected.png" topRowSelected.png
+s308337496.128059
+e308337496.163973
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Balloon Pop.app/topRowSelected.png
+xtopRowSelected.png
+lSLF07#2@23"Copy topRowSelected.png308337496#308337496#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/Balloon Pop/topRowSelected.png8607454272#531"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Balloon Pop/topRowSelected.png" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop"
+s308337504.697182
+e308337504.749187
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop
+lSLF07#2@129"GenerateDSYMFile "build/Release-iphonesimulator/Balloon Pop.app.dSYM" "build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop"308337504#308337504#0(0"0(0#0#108"/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop8606774144#441"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop" -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop" normal i386
+s308337504.224464
+e308337504.697048
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop
+xnormal
+xi386
+lSLF07#2@113"Link /Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop308337504#308337504#0(0"0(0#0#0"8603906176#1101"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" -filelist "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Objects-normal/i386/Balloon Pop.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework OpenGLES -framework AudioToolbox -framework AVFoundation -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Balloon Pop"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Info.plist" Ultimate_iPhone_Template-Info.plist
+s308337495.985807
+e308337496.010697
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Info.plist
+xUltimate_iPhone_Template-Info.plist
+lSLF07#2@43"Process Ultimate_iPhone_Template-Info.plist308337496#308337496#0(0"0(0#0#86"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Ultimate_iPhone_Template-Info.plist8020946595034917888#550"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Ultimate_iPhone_Template-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch.gch Ultimate_iPhone_Template_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337497.538623
+e308337500.683677
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch.gch
+xUltimate_iPhone_Template_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@46"Precompile Ultimate_iPhone_Template_Prefix.pch308337497#308337500#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#86"/Users/matthew/Desktop/My Code Sources/Balloon Pop/Ultimate_iPhone_Template_Prefix.pch8027754749290181632#2237"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/Balloon Pop-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Balloon Pop.build/Release-iphonesimulator/Ultimate iPhone Template.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/Ultimate_iPhone_Template_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-hewszswcguwlgaevbdiysuocdwwd/Ultimate_iPhone_Template_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"
+s308337504.749306
+e308337504.755567
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app
+lSLF07#2@102"Touch /Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app308337504#308337504#0(0"0(0#0#0"8606459168#312"    cd "/Users/matthew/Desktop/My Code Sources/Balloon Pop"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/Balloon Pop/build/Release-iphonesimulator/Balloon Pop.app"0#
+
